@@ -1,3 +1,3 @@
 # view_pattern
 
-A new Flutter project.
+View pattern saja :v
